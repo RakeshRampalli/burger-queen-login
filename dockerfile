@@ -22,3 +22,4 @@ ENV PYTHONUNBUFFERED=1
 # Command to run the Flask app
 CMD ["python", "app.py"]
 #testing cicd pipelines in jenkins
+#testing automation in Jenkins
